@@ -1,8 +1,7 @@
 #include <iostream>
-#include "myfunc.h"
 
 int main()
 {
-	std::cout<<myfunc()<<std::endl;
+	std::cout<<"hello world"<<std::endl;
 	return 0;
 }
